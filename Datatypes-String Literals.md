@@ -10,6 +10,15 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 
+```python
+def print_user_input():
+    print(input("Enter String : "))
+print_user_input()
+
+```
 ## Output
 
+![image](https://github.com/user-attachments/assets/dfd22350-6031-493a-98f6-8c157b8fb91c)
+
 ## Result
+Hence the program is executed successfully.
